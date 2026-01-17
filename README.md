@@ -495,14 +495,3 @@ To run tests, run the following command
 ```bash
   php artisan test
 ```
-
-  
-## Feedback
-
-If you have any feedback, please reach out to us at info@cbeyondint.com
-# Alhdeen
-# Alahdeen-B2b
-# Alahdeen-B2b
-# Alahdeen-B2b
-# Alahdeen-B2b
-# AlahdeenB2b
